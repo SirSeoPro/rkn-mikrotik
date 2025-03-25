@@ -144,3 +144,5 @@ add address=104.21.7.145 list=rkn
 add address=172.67.187.154 list=rkn
 add address=188.114.98.232 comment=chatgpt list=rkn
 add address=188.114.99.232 comment=chatgpt list=rkn
+add address=157.240.253.174 comment=deepseek list=rkn
+
