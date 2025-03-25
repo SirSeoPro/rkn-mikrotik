@@ -1,0 +1,7 @@
+/tool fetch url="https://raw.githubusercontent.com/SirSeoPro/rkn-mikrotik/refs/heads/main/rkn-list.rsc" mode=https dst-path=rkn-list.rsc
+:delay 5s 
+:log info "Downloaded rkn-list.rsc succesfully"; 
+/ip firewall address-list remove [find list="rkn"]; 
+/import file-name=rkn-list.rsc 
+:delay 10s 
+:log info "New rkn-list.rsc added successfully";
