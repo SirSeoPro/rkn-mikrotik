@@ -145,3 +145,4 @@ add address=172.67.187.154 list=rkn
 add address=188.114.98.0/24 comment=chatgpt list=rkn
 add address=188.114.99.0/24 comment=chatgpt list=rkn
 add address=157.240.253.0/24 comment=deepseek list=rkn
+add address=35.207.106.0/24 comment=discord-may-2025 list=rkn
