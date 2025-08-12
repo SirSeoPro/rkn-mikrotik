@@ -154,5 +154,7 @@ add address=104.18.28.0/24 comment=grok.com list=rkn
 add address=104.18.29.0/24 comment=grok.com list=rkn
 add address=104.18.19.0/24 comment=grok.com list=rkn
 add address=104.18.18.0/24 comment=grok.com list=rkn
+add address=8.6.112.8/24 comment=grok.com list=rkn
+add address=8.47.69.8/24 comment=grok.com list=rkn
 
 
