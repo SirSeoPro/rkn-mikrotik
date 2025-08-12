@@ -150,3 +150,9 @@ add address=35.207.121.0/24 comment=discord-may-2025 list=rkn
 add address=188.114.99.0/24 comment=grok.com list=rkn
 add address=188.114.98.0/24 comment=grok.com list=rkn
 add address=3.164.206.0/24 comment=terraform list=rkn
+add address=104.18.28.0/24 comment=grok.com list=rkn
+add address=104.18.29.0/24 comment=grok.com list=rkn
+add address=104.18.19.0/24 comment=grok.com list=rkn
+add address=104.18.18.0/24 comment=grok.com list=rkn
+
+
