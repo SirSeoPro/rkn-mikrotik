@@ -156,5 +156,13 @@ add address=104.18.19.0/24 comment=grok.com list=rkn
 add address=104.18.18.0/24 comment=grok.com list=rkn
 add address=8.6.112.8/24 comment=grok.com list=rkn
 add address=8.47.69.8/24 comment=grok.com list=rkn
-
+add address=91.108.56.0/22 comment=tg list=rkn
+add address=91.108.4.0/22 comment=tg list=rkn
+add address=91.108.8.0/22 comment=tg list=rkn
+add address=91.108.16.0/22 comment=tg list=rkn
+add address=91.108.12.0/22 comment=tg list=rkn
+add address=149.154.160.0/20 comment=tg list=rkn
+add address=91.105.192.0/23 comment=tg list=rkn
+add address=91.108.20.0/22 comment=tg list=rkn
+add address=185.76.151.0/24 comment=tg list=rkn
 
