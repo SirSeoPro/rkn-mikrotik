@@ -166,4 +166,5 @@ add address=91.105.192.0/23 comment=tg list=rkn
 add address=91.108.20.0/22 comment=tg list=rkn
 add address=185.76.151.0/24 comment=tg list=rkn
 add address=160.79.104.0/24 comment=claude list=rkn
+add address=179.43.150.0/24 comment=flibusta list=rkn
 
